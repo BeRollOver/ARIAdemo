@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Parallels\Projects\ariademo\ariademo\test.cpp">
+    <ClCompile Include="ARIAdemo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

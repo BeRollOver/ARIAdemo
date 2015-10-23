@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Parallels\Projects\ariademo\ariademo\test.cpp" />
+    <ClCompile Include="ARIAdemo.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{0B062AA7-27C8-4D3C-9E16-BF1BF0CBA965}</ProjectGuid>
